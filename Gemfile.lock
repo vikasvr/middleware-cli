@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    middleware-cli (0.1.0)
+    middleware-cli (1.0.0)
       terminal-table
       thor (~> 1.0.1)
 
