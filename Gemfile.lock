@@ -9,7 +9,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     minitest (5.11.3)
-    rake (10.5.0)
+    rake (12.3.3)
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     thor (1.0.1)
@@ -22,7 +22,7 @@ DEPENDENCIES
   bundler (~> 1.16)
   middleware-cli!
   minitest (~> 5.0)
-  rake (~> 10.0)
+  rake (~> 12.3)
 
 BUNDLED WITH
    1.17.3
