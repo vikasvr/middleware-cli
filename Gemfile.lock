@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    middleware-cli (1.0.0)
+    middleware-cli (1.1.0)
       terminal-table
       thor (~> 1.0.1)
 
@@ -13,7 +13,7 @@ GEM
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     thor (1.0.1)
-    unicode-display_width (1.6.1)
+    unicode-display_width (1.7.0)
 
 PLATFORMS
   ruby
